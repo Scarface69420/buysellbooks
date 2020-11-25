@@ -1,6 +1,6 @@
 # buysellbooks
 
-A new Flutter application.
+A Flutter application for online buying and selling of books. 
 
 ## Getting Started
 
