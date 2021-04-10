@@ -1,6 +1,8 @@
 # buysellbooks
 
-A Flutter application for online buying and selling of books. 
+A Flutter application for online buying and selling of books.
+Consumer-to-comsumer (C2C) sale, buyers can contact sellers directly by contacting sellers through WhatsApp, SMS or phone call.
+ 
 
 ## Getting Started
 
